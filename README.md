@@ -1,5 +1,2 @@
 # readme
-BonoboTurbo
-fivemserver dev
-from finland
-learning just for fun
+Minä olen BonoboTurbo, pääasiassa FiveM-kehittäjä, joka keskittyy erityisesti qb-coreen. Intohimoisena pelien kehittäjänä hyödynnän asiantuntemustani FiveM:ssä ja qb-coressa kehittääkseni ja parantaakseni erilaisia pelin osa-alueita. GitHub-profiilistani osoitteessa github.com/tontsa97 löydät panokseni FiveM-yhteisölle. Projekteissani pyrin tarjoamaan korkealaatuisia resursseja, skriptejä ja muokkauksia, jotka nostavat pelikokemuksen uudelle tasolle ja lisäävät syvyyttä FiveM-alustaan. Sitoutuneena kehittäjänä jatkan FiveM:ssä ja qb-coressa uusien mahdollisuuksien tutkimista ja pyrin rajaamaan pelien maailman saavutettavuuden äärirajoja.
